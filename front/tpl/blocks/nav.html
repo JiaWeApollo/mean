@@ -1,0 +1,160 @@
+<!-- list -->
+<ul class="nav">
+	<li class="hidden-folded padder m-t m-b-sm text-muted text-xs">
+    <span translate="aside.nav.HEADER" class="ng-scope">即有信审平台</span>
+  </li>
+  <li>
+    <a href class="auto">      
+      <span class="pull-right text-muted">
+        <i class="fa fa-fw fa-angle-right text"></i>
+        <i class="fa fa-fw fa-angle-down text-active"></i>
+      </span>
+      <!--<b class="badge bg-info pull-right">3</b>-->
+      <i class="glyphicon glyphicon-th"></i>
+      <span>信审管理</span>
+    </a>
+    <ul class="nav nav-sub dk">
+      <li class="nav-sub-header">
+        <a href>
+          <span>信审管理</span>
+        </a>
+      </li>
+      <li ui-sref-active="active">
+        <a ui-sref="app.homePage">
+          <span>审核主页</span>
+        </a>
+      </li>
+      <li ui-sref-active="active">
+        <a ui-sref="layout.fullwidth">
+          <span>在审管理</span>
+        </a>
+      </li>
+      <li ui-sref-active="active">
+        <a ui-sref="layout.mobile">
+          <span>审核结果查询</span>
+        </a>
+      </li>  
+      <li ui-sref-active="active">
+        <a ui-sref="layout.mobile">
+          <span>审核状态日志查询</span>
+        </a>
+      </li> 
+      <li ui-sref-active="active">
+        <a ui-sref="layout.mobile">
+          <span>取消合同</span>
+        </a>
+      </li> 
+      <li ui-sref-active="active">
+        <a ui-sref="layout.mobile">
+          <span>退回合同</span>
+        </a>
+      </li> 
+      <li ui-sref-active="active">
+        <a ui-sref="layout.mobile">
+          <span>查询合同详情</span>
+        </a>
+      </li>      
+    </ul>
+  </li>
+  <li ng-class="{active:$state.includes('app.ui')}">
+    <a href class="auto">
+      <span class="pull-right text-muted">
+        <i class="fa fa-fw fa-angle-right text"></i>
+        <i class="fa fa-fw fa-angle-down text-active"></i>
+      </span>
+      <i class="glyphicon glyphicon-briefcase icon"></i>
+      <span translate="aside.nav.components.ui_kits.UI_KITS">信息查询</span>
+    </a>
+    <ul class="nav nav-sub dk">
+      <li class="nav-sub-header">
+        <a href>
+          <span translate="aside.nav.components.ui_kits.UI_KITS">信息查询</span>
+        </a>
+      </li>
+      <li ui-sref-active="active">
+        <a ui-sref="app.ui.buttons">
+          <span translate="aside.nav.components.ui_kits.BUTTONS">合同信息查询</span>
+        </a>
+      </li>
+      <li ui-sref-active="active">
+        <a ui-sref="app.ui.icons">
+          <!--<b class="badge bg-info pull-right">3</b>-->
+          <span translate="aside.nav.components.ui_kits.ICONS">关联合同信息查询</span>
+        </a>
+      </li>
+      <li ui-sref-active="active">
+        <a ui-sref="app.ui.grid">
+          <span translate="aside.nav.components.ui_kits.GRID">合同信息比对</span>
+        </a>
+      </li>
+      <li ui-sref-active="active">
+        <a ui-sref="app.ui.widgets">
+          <!--<b class="badge bg-success pull-right">13</b>-->
+          <span translate="aside.nav.WIDGETS">考勤日志查询</span>
+        </a>
+      </li>
+    </ul>
+  </li>
+  <li ng-class="{active:$state.includes('app.table')}">
+    <a href class="auto">
+      <span class="pull-right text-muted">
+        <i class="fa fa-fw fa-angle-right text"></i>
+        <i class="fa fa-fw fa-angle-down text-active"></i>
+      </span>
+      <!--<b class="label bg-primary pull-right">2</b>-->
+      <i class="glyphicon glyphicon-list"></i>
+      <span translate="aside.nav.components.table.TABLE">征信核查</span>
+    </a>
+    <ul class="nav nav-sub dk">
+      <li class="nav-sub-header">
+        <a href>
+          <span translate="aside.nav.components.table.TABLE">征信核查</span>
+        </a>
+      </li>
+      <li ui-sref-active="active">
+        <a ui-sref="app.table.static">
+          <span translate="aside.nav.components.table.TABLE_STATIC">NCIIC</span>
+        </a>
+      </li>
+      <li ui-sref-active="active">
+        <a ui-sref="app.table.datatable">
+          <span translate="aside.nav.components.table.DATATABLE">手机号核查
+          </span>
+        </a>
+      </li>
+    </ul>
+  </li>
+  <li ng-class="{active:$state.includes('app.page')}">
+    <a href class="auto">
+      <span class="pull-right text-muted">
+        <i class="fa fa-fw fa-angle-right text"></i>
+        <i class="fa fa-fw fa-angle-down text-active"></i>
+      </span>
+      <i class="glyphicon glyphicon-file icon"></i>
+      <span translate="aside.nav.components.pages.PAGES">基础配置</span>
+    </a>
+    <ul class="nav nav-sub dk">
+      <li class="nav-sub-header">
+        <a href>
+          <span translate="aside.nav.components.pages.PAGES">基础配置</span>
+        </a>
+      </li>
+      <li ui-sref-active="active">
+        <a ui-sref="app.page.profile">
+          <span translate="aside.nav.components.pages.PROFILE">风险信息配置</span>
+        </a>
+      </li>
+      <li ui-sref-active="active">
+        <a ui-sref="app.page.post">
+          <span translate="aside.nav.components.pages.POST">合同审核人权限分组</span>
+        </a>
+      </li>
+      <li ui-sref-active="active">
+        <a ui-sref="app.page.search">
+          <span translate="aside.nav.components.pages.SEARCH">权限管理</span>
+        </a>
+      </li>
+    </ul>
+  </li>
+</ul>
+<!-- / list -->

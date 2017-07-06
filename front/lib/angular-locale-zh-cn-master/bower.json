@@ -1,0 +1,11 @@
+{
+  "name": "angular-locale_zh-cn",
+  "version": "1.0.0",
+  "main": "./angular-locale_zh-cn.js",
+  "authors": [
+    "Troland"
+  ],
+  "dependencies": {
+    "angular": "*"
+  }
+}

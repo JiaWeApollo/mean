@@ -1,0 +1,29 @@
+{
+    "list": [
+        {
+            "address": "深圳市福田区福中一路1016号地铁大厦17楼",
+            "bookversion": "人事行政部_薪酬组_201606_V1",
+            "certNo": "Cert_404a9eae-ed25-46fb-9722-05561ae33f9c.pfx",
+            "compCode": "C001",
+            "compName": "深圳前海达飞金融服务有限公司",
+            "corporation": "曹诚",
+            "email": "hr@dafycredit.com",
+            "linkman": "徐莉",
+            "phone": "0755-84705816",
+            "sealNo": "C001"
+        },
+        {
+            "address": "前海湾一路",
+            "bookversion": "人事行政部_薪酬组_201606_V2",
+            "certNo": "Cert_404a9eae-ed25-46fb-9722-05561ae33f9c.pfx",
+            "compCode": "C002",
+            "compName": "金龙",
+            "corporation": "曹诚",
+            "email": "it@dafycredit.com",
+            "linkman": "金龙",
+            "phone": "0755-84705816",
+            "sealNo": "C002"
+        }
+    ],
+    "total": 2
+}

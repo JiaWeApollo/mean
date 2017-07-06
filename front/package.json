@@ -1,0 +1,9 @@
+{
+  "name": "creditCheck",
+  "version": "1.0.0",
+  "description": "即有信审平台",
+  "dependencies": {
+    "gulp-connect": "^5.0.0",
+    "gulp-livereload": "^3.8.1"
+  }
+}

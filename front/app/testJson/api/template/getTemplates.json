@@ -1,0 +1,17 @@
+{
+    "list": [
+        {
+            "code": "MB1",
+            "fileName": "模板一",
+            "name": "合同模板一",
+            "remark": "这是模板一的备注"
+        },
+        {
+            "code": "MB2",
+            "fileName": "模板二",
+            "name": "合同模板二",
+            "remark": "这是模板二的备注"
+        }
+    ],
+    "total": 2
+}

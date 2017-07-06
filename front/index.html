@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!--<meta http-equiv="refresh" content="5">-->
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title>即有信审平台</title>
+    <link rel="stylesheet" href="css/bootstrap.css" type="text/css" />
+	  <link rel="stylesheet" href="css/animate.css" type="text/css" />
+	  <link rel="stylesheet" href="css/font-awesome.min.css" type="text/css" />
+	  <link rel="stylesheet" href="css/simple-line-icons.css" type="text/css" />
+	  <link rel="stylesheet" href="css/font.css" type="text/css" />
+	  <link rel="stylesheet" href="css/app.css" type="text/css" />
+      <link rel="stylesheet" type="text/css" href="lib/angular-loading/angular-loading.css" />
+      <link rel="stylesheet" type="text/css" href="lib/angular-toastr/dist/angular-toastr.min.css"/>
+    <script src="lib/requirejs/require.min.js" data-main="app/main"></script>
+  </head>
+  <body>
+       <div class="app" id="app" ng-class="{'app-header-fixed':app.settings.headerFixed, 'app-aside-fixed':app.settings.asideFixed, 'app-aside-folded':app.settings.asideFolded, 'app-aside-dock':app.settings.asideDock, 'container':app.settings.container}"  ui-view></div>
+  </body>
+</html>

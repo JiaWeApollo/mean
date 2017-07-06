@@ -1,0 +1,32 @@
+{
+  "total": 1,
+  "list": [
+    {
+      "adminId": "string",
+      "adminId2": "string",
+      "builDate": "2016-12-20",
+      "checkDate": "2016-12-20",
+      "checkStatus": "string",
+      "code": "string",
+      "conBeginDate": "2016-12-20",
+      "conEndDate": "2016-12-20",
+      "effectiveStatus": 0,
+      "fhr": "string",
+      "hr1": "string",
+      "hr2": "string",
+      "hr3": "string",
+      "hr4": "string",
+      "joinDate": "2016-12-20",
+      "oa": "string",
+      "oaDate": "2016-12-20",
+      "signStatus": 0,
+      "status": "string",
+      "type": 0,
+      "userId": "string",
+      "userName": "string",
+      "isCancel": true,
+      "batchId": "string",
+      "files": {}
+    }
+  ]
+}
