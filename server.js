@@ -6,8 +6,8 @@ var express = require('express');
 var bodyParser = require('body-parser');
 var app = express();
 var morgan = require('morgan');
-
-var proxyHOST = 'http://api.douban.com/v2'; //代理服务器的地址
+var request = require('superagent');
+var Setting = require("./Setting");
 // configure app
 app.use(morgan('dev')); // log requests to the console
 
@@ -18,7 +18,7 @@ app.use(bodyParser.json());
 var port = process.env.PORT || 3000; // set our port
 
 var mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost:27017/api'); // connect to our database
+mongoose.connect(Setting.mongodb); // connect to our database
 //attach lister to connected event
 mongoose.connection.once('connected', function () {
     console.log("Connected to database")
@@ -154,15 +154,23 @@ router.route('/deletePerson')
             });
         });
     });
-    // 豆瓣榜单信息
-router.route('/movie/:type').get(function (req, res) {
-        var originalUrl = req.originalUrl.replace("/api","");
-        var sreq = request.get(proxyHOST + originalUrl)
-        sreq.pipe(res);
-        sreq.on('end', function (error, res) {
-            console.log('end');
-        });
-    })
+    // 正在热映
+    router.route('/movie/in_theaters').get(function (req, res) {
+            var originalUrl = req.originalUrl.replace("/api","");
+            var sreq = request.get(Setting.proxyHOST + originalUrl);
+            sreq.pipe(res);
+            sreq.on('end', function (error, res) {
+                console.log('请求in_theaters成功');
+            });
+        })
+
+        // router.route('/Audit/GetOrder').post(function (req, res) {
+        //     var sreq = request.post(Setting.proxyHOST + req.originalUrl);
+        //     sreq.pipe(res);
+        //     sreq.on('end', function (error, res) {
+        //         console.log('请求GetOrder成功');
+        //     });
+        // })
 
 // REGISTER OUR ROUTES -------------------------------
 app.use('/api', router);

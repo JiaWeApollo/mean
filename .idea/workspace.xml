@@ -2,194 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98000cf8-3192-4a45-9fa4-17fd7f4e379b" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/img/logo_small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/plugins/topbar/logo_small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/.babelrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/.editorconfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/.github/issue_template.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/Dockerfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/dev-helpers/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/dist/oauth2-redirect.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/docker-run.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/make-webpack-config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/nginx.conf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/postcss.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/snapcraft.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/brace-snippets-yaml.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/app.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/auth/api-key-auth.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/auth/authorization-popup.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/auth/authorize-btn.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/auth/authorize-operation-btn.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/auth/auths.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/auth/basic-auth.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/auth/error.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/auth/oauth2.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/clear.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/content-type.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/curl.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/debug.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/errors.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/execute.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/footer.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/headers.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/highlight-code.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/info.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/layout-utils.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/layouts/base.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/layouts/xpane.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/live-response.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/model-example.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/model.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/models.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/online-validator-badge.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/operation.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/operations.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/overview.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/param-body.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/parameter-row.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/parameters.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/providers/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/providers/markdown.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/response-body.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/response.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/responses.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/schemes.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/system-wrapper.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/components/try-it-out-button.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/curlify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/json-schema-components.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/oauth2-authorize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/path-translator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/ast/ast.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/ast/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/ast/jump-to-path.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/auth/actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/auth/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/auth/reducers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/auth/selectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/auth/spec-wrap-actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/download-url.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/err/actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/err/error-transformers/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/err/error-transformers/hook.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/err/error-transformers/transformers/not-of-type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/err/error-transformers/transformers/parameter-oneof.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/err/error-transformers/transformers/strip-instance.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/err/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/err/reducers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/err/selectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/layout/actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/layout/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/layout/reducers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/layout/selectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/samples/fn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/samples/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/spec/actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/spec/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/spec/reducers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/spec/selectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/spec/wrap-actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/split-pane-mode/components/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/split-pane-mode/components/split-pane-mode.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/split-pane-mode/components/split-pane-mode.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/split-pane-mode/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/swagger-js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/util/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/view/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/plugins/view/root-injects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/presets/apis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/presets/base.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/proptypes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/system.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/core/window.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/plugins/add-plugin.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/plugins/configs/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/plugins/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/plugins/topbar/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/plugins/topbar/topbar.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/plugins/topbar/topbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/polyfills.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/standalone/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/standalone/layout.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/style/_authorize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/style/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/style/_colors.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/style/_errors.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/style/_form.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/style/_information.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/style/_layout.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/style/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/style/_modal.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/style/_models.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/style/_table.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/style/_topbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/style/_type.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/style/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/src/style/main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/swagger-config.yaml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/swagger-ui-dist-package/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/swagger-ui-dist-package/.npmrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/swagger-ui-dist-package/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/swagger-ui-dist-package/absolute-path.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/swagger-ui-dist-package/deploy.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/swagger-ui-dist-package/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/swagger-ui-dist-package/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/test/.eslintrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/test/bugs/3199-sanitization-escaping.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/test/bugs/3279-empty-markdown-source.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/test/components/operation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/test/core/curlify.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/test/core/path-translator.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/test/core/plugins/auth/wrap-spec-actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/test/core/plugins/err/transformers/not-of-type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/test/core/plugins/err/transformers/parameter-oneof.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/test/core/plugins/samples/fn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/test/core/plugins/spec-reducer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/test/core/plugins/spec/actions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/test/core/plugins/spec/selectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/test/core/system.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/test/core/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/test/swagger-ui-dist-package/absolute-path.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/webpack-dist-bundle.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/webpack-dist-standalone.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/webpack-dist.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/webpack-hot-dev-server.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/webpack-watch.config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/webpack.check.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/swagger-ui-master/webpack.config.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/dist/test.json" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Setting.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/app/controllers/app/appCtr.js" afterPath="$PROJECT_DIR$/front/app/controllers/app/appCtr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/gulpfile.js" afterPath="$PROJECT_DIR$/front/gulpfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/index.html" afterPath="$PROJECT_DIR$/front/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/tpl/home/homePage.html" afterPath="$PROJECT_DIR$/front/tpl/home/homePage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/dist/favicon-16x16.png" afterPath="$PROJECT_DIR$/public/swagger-ui-master/dist/favicon-16x16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/dist/favicon-32x32.png" afterPath="$PROJECT_DIR$/public/swagger-ui-master/dist/favicon-32x32.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/dist/index.html" afterPath="$PROJECT_DIR$/public/swagger-ui-master/dist/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/dist/oauth2-redirect.html" afterPath="$PROJECT_DIR$/public/swagger-ui-master/dev-helpers/oauth2-redirect.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/dist/swagger-ui-bundle.js" afterPath="$PROJECT_DIR$/public/swagger-ui-master/dist/swagger-ui-bundle.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/dist/swagger-ui-bundle.js.map" afterPath="$PROJECT_DIR$/public/swagger-ui-master/dist/swagger-ui-bundle.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/dist/swagger-ui-standalone-preset.js" afterPath="$PROJECT_DIR$/public/swagger-ui-master/dist/swagger-ui-standalone-preset.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/dist/swagger-ui-standalone-preset.js.map" afterPath="$PROJECT_DIR$/public/swagger-ui-master/dist/swagger-ui-standalone-preset.js.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/dist/swagger-ui.css" afterPath="$PROJECT_DIR$/public/swagger-ui-master/dist/swagger-ui.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/dist/swagger-ui.css.map" afterPath="$PROJECT_DIR$/public/swagger-ui-master/dist/swagger-ui.css.map" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/dist/swagger-ui.js" afterPath="$PROJECT_DIR$/public/swagger-ui-master/dist/swagger-ui.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/public/dist/swagger-ui.js.map" afterPath="$PROJECT_DIR$/public/swagger-ui-master/dist/swagger-ui.js.map" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -217,20 +34,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="836">
-              <caret line="167" column="6" lean-forward="true" selection-start-line="167" selection-start-column="6" selection-end-line="167" selection-end-column="6" />
+            <state relative-caret-position="325">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="35" selection-end-column="3" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="722">
+              <caret line="74" column="4" lean-forward="true" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="favicon-16x16.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/favicon-16x16.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="Setting.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Setting.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -285,13 +117,20 @@
         <entry file="file://$PROJECT_DIR$/front/app/controllers/app/appCtr.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1800">
-              <caret line="72" column="36" lean-forward="true" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+              <caret line="72" column="36" lean-forward="false" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -332,6 +171,8 @@
         <option value="$PROJECT_DIR$/front/index.html" />
         <option value="$PROJECT_DIR$/front/app/controllers/app/appCtr.js" />
         <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/Setting.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -605,6 +446,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="98000cf8-3192-4a45-9fa4-17fd7f4e379b" name="默认的" comment="" />
@@ -617,12 +461,12 @@
       <workItem from="1499276902144" duration="562000" />
       <workItem from="1499330102049" duration="12960000" />
       <workItem from="1499681127454" duration="39000" />
-      <workItem from="1499848480006" duration="590000" />
+      <workItem from="1499848480006" duration="4841000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53348000" />
+    <option name="totallyTimeSpent" value="57599000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -646,7 +490,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1329114" sideWeight="0.5064935" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30108696" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30098146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1329114" sideWeight="0.5064935" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -676,13 +520,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/front/app/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/front/app/services/home/homeService.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -719,7 +556,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1932">
           <caret line="84" column="28" lean-forward="true" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -779,7 +618,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1596">
           <caret line="84" column="26" lean-forward="true" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -859,13 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="51" column="175" lean-forward="false" selection-start-line="51" selection-start-column="175" selection-end-line="51" selection-end-column="175" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -980,7 +814,7 @@
     <entry file="file://$PROJECT_DIR$/front/app/controllers/app/appCtr.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1800">
-          <caret line="72" column="36" lean-forward="true" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+          <caret line="72" column="36" lean-forward="false" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
           <folding />
         </state>
       </provider>
@@ -995,8 +829,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="167" column="6" lean-forward="true" selection-start-line="167" selection-start-column="6" selection-end-line="167" selection-end-column="6" />
+        <state relative-caret-position="325">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="35" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Setting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="74" column="4" lean-forward="true" selection-start-line="74" selection-start-column="4" selection-end-line="74" selection-end-column="4" />
           <folding />
         </state>
       </provider>
