@@ -7,6 +7,7 @@ var bodyParser = require('body-parser');
 var app = express();
 var morgan = require('morgan');
 
+var proxyHOST = 'http://api.douban.com/v2'; //代理服务器的地址
 // configure app
 app.use(morgan('dev')); // log requests to the console
 
@@ -29,8 +30,8 @@ app.all('*', function (req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
     res.header("Access-Control-Allow-Headers", "X-Requested-With,accept, authorization, content-type");
     res.header("Access-Control-Allow-Methods", "PUT,POST,GET,DELETE,OPTIONS");
-    res.header("X-Powered-By", ' 3.2.1')
-    res.header("Content-Type", "application/json;charset=utf-8");
+    // res.header("X-Powered-By", ' 3.2.1')
+    // res.header("Content-Type", "application/json;charset=utf-8");
     next();
 });
 
@@ -153,7 +154,15 @@ router.route('/deletePerson')
             });
         });
     });
-
+    // 豆瓣榜单信息
+router.route('/movie/:type').get(function (req, res) {
+        var originalUrl = req.originalUrl.replace("/api","");
+        var sreq = request.get(proxyHOST + originalUrl)
+        sreq.pipe(res);
+        sreq.on('end', function (error, res) {
+            console.log('end');
+        });
+    })
 
 // REGISTER OUR ROUTES -------------------------------
 app.use('/api', router);
