@@ -2,11 +2,11 @@
   一个由 mongodb,express,angularjs,nodejs搭建的一个全栈项目，
 
 **项目中用到了豆瓣电影 Api, 更多 Api请见 [豆瓣Api文档](https://developers.douban.com/wiki/?title=api_v2)**
-
+**Node.js 转发请求用到了 `express`和`superagent`. [superanget](https://github.com/visionmedia/superagent)是一个 Node.js HTTP client。
+操作mongdb用的是moogose,项目前端部分用angular+bootstarp搭建了一个SPA网站,实现了增删改查，分页等功能**
 **安装依赖**
 
-Node.js 转发请求用到了 `express`和`superagent`. [superanget](https://github.com/visionmedia/superagent)是一个 Node.js HTTP client。
-操作mongdb用的是moogose,项目前端部分用angular搭建了一个SPA网站，
+
 ```
 npm install --save
 ```
@@ -67,12 +67,15 @@ app.listen(app.get('port'), function() {
 npm start
 或
 node serve.js
+访问 http//localhost:8023/api,如果有一串字符串返回，则说明接口服务器创建成功
 ```
 
 ```
 启动前端
 cd front
+npm install 安装依赖
 gulp
+打开 http//localhost:8023
 ```
 
 
