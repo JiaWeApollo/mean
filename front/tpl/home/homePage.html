@@ -8,17 +8,19 @@
             Responsive Table
         </div>
         <div class="row wrapper">
-            <div class="col-sm-5 m-b-xs">
-                <select class="input-md form-control w-sm inline v-middle">
-                    <option value="0">Bulk action</option>
-                    <option value="1">Delete selected</option>
-                    <option value="2">Bulk edit</option>
-                    <option value="3">Export</option>
+            <div class="col-sm-2 m-b-xs">
+                <select class="input-md form-control inline v-middle" ng-model="parm.sex">
+                    <option value="">please select</option>
+                    <option value="male">male</option>
+                    <option value="female">famale</option>
                 </select>
+            </div>
+            <div class="col-sm-2">
+                <input type="text" class="form-control inline" ng-model="parm.name" placeholder="please input name.." />
+            </div>
+            <div class="col-sm-3">
                 <button class="btn btn-md btn-primary m-l-sm" ng-click="getList()"><i class="fa fa-search"></i> Search</button>
                 <button class="btn btn-md btn-success m-l-sm" ng-click="editOrAdd(-1)"><i class="fa fa-plus"></i> Add</button>
-            </div>
-            <div class="col-sm-4">
             </div>
         </div>
         <div class="table-responsive">

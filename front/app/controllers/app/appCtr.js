@@ -70,9 +70,9 @@ define(['app'], function(app) {
 	}]);
     app.controller("homeCtrl",function ($rootScope, $scope, $uibModal,$loading, $state, homeService, CommonService,$localStorage,toastr) {
         $scope.getList=function () {
-            homeService.getAllPerson({},function (data) {
-                console.info("获取人员信息：");
-                console.log(data);
+            console.time("getList");
+            homeService.getAllPerson($scope.parm,function (data) {
+                console.log("获取人员信息：",data);
                 if(data.status==true){
                     $scope.personList=data.data;
                 }else{
@@ -81,6 +81,7 @@ define(['app'], function(app) {
             },function (error) {
                 toastr.error(error);
             })
+            console.timeEnd("getList");
         };
         $scope.getList();
         $rootScope.$on("getList",function () {

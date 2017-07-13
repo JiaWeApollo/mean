@@ -2,7 +2,6 @@ var gulp = require('gulp');
 connect = require('gulp-connect');
 var livereload = require("gulp-livereload");
 var smushit = require('gulp-smushit');
-console.log(smushit);
 
 gulp.task("watch",function(){
 

@@ -108,7 +108,7 @@ router.route('/editPerson')
 router.route('/getAllPerson')
 // get all the bears (accessed at GET http://localhost:8080/api/bears)
     .post(function (req, res) {
-        Person.find(function (err, Persons) {
+        Person.find(req.body,function (err, Persons) {
             if (err)
                 res.send(err);
 
