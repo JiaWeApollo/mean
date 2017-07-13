@@ -6,7 +6,8 @@ var express = require('express');
 var bodyParser = require('body-parser');
 var app = express();
 var morgan = require('morgan');
-
+var request = require('superagent');
+var Setting = require("./Setting");
 // configure app
 app.use(morgan('dev')); // log requests to the console
 
@@ -17,7 +18,7 @@ app.use(bodyParser.json());
 var port = process.env.PORT || 3000; // set our port
 
 var mongoose = require('mongoose');
-mongoose.connect('mongodb://localhost:27017/api'); // connect to our database
+mongoose.connect(Setting.mongodb); // connect to our database
 //attach lister to connected event
 mongoose.connection.once('connected', function () {
     console.log("Connected to database")
@@ -29,8 +30,8 @@ app.all('*', function (req, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
     res.header("Access-Control-Allow-Headers", "X-Requested-With,accept, authorization, content-type");
     res.header("Access-Control-Allow-Methods", "PUT,POST,GET,DELETE,OPTIONS");
-    res.header("X-Powered-By", ' 3.2.1')
-    res.header("Content-Type", "application/json;charset=utf-8");
+    // res.header("X-Powered-By", ' 3.2.1')
+    // res.header("Content-Type", "application/json;charset=utf-8");
     next();
 });
 
@@ -153,7 +154,23 @@ router.route('/deletePerson')
             });
         });
     });
+    // 正在热映
+    router.route('/movie/in_theaters').get(function (req, res) {
+            var originalUrl = req.originalUrl.replace("/api","");
+            var sreq = request.get(Setting.proxyHOST + originalUrl);
+            sreq.pipe(res);
+            sreq.on('end', function (error, res) {
+                console.log('请求in_theaters成功');
+            });
+        })
 
+        // router.route('/Audit/GetOrder').post(function (req, res) {
+        //     var sreq = request.post(Setting.proxyHOST + req.originalUrl);
+        //     sreq.pipe(res);
+        //     sreq.on('end', function (error, res) {
+        //         console.log('请求GetOrder成功');
+        //     });
+        // })
 
 // REGISTER OUR ROUTES -------------------------------
 app.use('/api', router);

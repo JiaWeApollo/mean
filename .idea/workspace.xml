@@ -29,71 +29,147 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/server.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2507">
               <caret line="110" column="29" lean-forward="false" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
               <folding />
+=======
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="33" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
       <file leaf-file-name="accountService.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/front/app/services/account/accountService.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="253">
               <caret line="11" column="41" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="41" />
+=======
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="commonService.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/front/app/services/common/commonService.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-506">
               <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+=======
+      <file leaf-file-name="Setting.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Setting.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
               <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+=======
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1350">
+              <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/front/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="138">
               <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+=======
+      <file leaf-file-name="favicon-32x32.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/favicon-32x32.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="swagger-ui-standalone-preset.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/swagger-ui-standalone-preset.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="homePage.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/front/tpl/home/homePage.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1357">
               <caret line="59" column="20" lean-forward="false" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+=======
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/front/app/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="23">
               <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+=======
+      <file leaf-file-name="homePage.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/front/tpl/home/homePage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="17" column="70" lean-forward="false" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="70" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
               <folding />
             </state>
           </provider>
@@ -102,14 +178,26 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/front/package.json">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+            <state relative-caret-position="1800">
+              <caret line="72" column="36" lean-forward="false" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -144,12 +232,24 @@
         <option value="$PROJECT_DIR$/front/package.json" />
         <option value="$PROJECT_DIR$/front/css/app.css" />
         <option value="$PROJECT_DIR$/front/app/main.js" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/front/index.html" />
+=======
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
         <option value="$PROJECT_DIR$/front/app/services/home/homeService.js" />
+        <option value="$PROJECT_DIR$/front/gulpfile.js" />
+        <option value="$PROJECT_DIR$/front/tpl/home/homePage.html" />
+        <option value="$PROJECT_DIR$/front/index.html" />
         <option value="$PROJECT_DIR$/front/app/controllers/app/appCtr.js" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/front/gulpfile.js" />
         <option value="$PROJECT_DIR$/front/tpl/home/homePage.html" />
         <option value="$PROJECT_DIR$/server.js" />
+=======
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/Setting.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
       </list>
     </option>
   </component>
@@ -196,6 +296,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -210,6 +311,9 @@
           </PATH>
         </subPane>
       </pane>
+=======
+      <pane id="Scratches" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -217,6 +321,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
             <PATH_ELEMENT USER_OBJECT="mean">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
@@ -241,10 +346,13 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+=======
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
             <PATH_ELEMENT USER_OBJECT="mean">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
+<<<<<<< HEAD
             <PATH_ELEMENT USER_OBJECT="front">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
@@ -254,6 +362,13 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
+=======
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
           <PATH>
             <PATH_ELEMENT USER_OBJECT="Root">
               <option name="myItemId" value="" />
@@ -365,11 +480,12 @@
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\myGit\mean" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\myGit\node-api-master\public\dist" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myGit\mean\public" />
+      <recent name="D:\myGit\mean" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -551,6 +667,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="98000cf8-3192-4a45-9fa4-17fd7f4e379b" name="默认的" comment="" />
@@ -562,16 +681,25 @@
       <workItem from="1499270914548" duration="5889000" />
       <workItem from="1499276902144" duration="562000" />
       <workItem from="1499330102049" duration="12960000" />
+<<<<<<< HEAD
       <workItem from="1499448941917" duration="935000" />
       <workItem from="1499450132266" duration="3954000" />
       <workItem from="1499779042219" duration="1701000" />
       <workItem from="1499959724643" duration="223000" />
       <workItem from="1499966365391" duration="40000" />
+=======
+      <workItem from="1499681127454" duration="39000" />
+      <workItem from="1499848480006" duration="4914000" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="51483000" />
+=======
+    <option name="totallyTimeSpent" value="57672000" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -587,7 +715,11 @@
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20149253" sideWeight="0.4935065" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14662448" sideWeight="0.4935065" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.4447334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -595,9 +727,12 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1329114" sideWeight="0.5064935" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32826087" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3147541" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30098146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1329114" sideWeight="0.5064935" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -607,6 +742,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="找到" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -620,11 +756,12 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="35" />
+      <option name="time" value="36" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2075">
@@ -655,6 +792,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
     <entry file="file://$PROJECT_DIR$/front/app/services/home/homeService.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
@@ -677,6 +816,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/public/dist/oauth2-redirect.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -684,6 +824,9 @@
         </state>
       </provider>
     </entry>
+=======
+    <entry file="file://$PROJECT_DIR$/public/dist/oauth2-redirect.html" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
     <entry file="file://$PROJECT_DIR$/front/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -695,7 +838,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1932">
           <caret line="84" column="28" lean-forward="true" selection-start-line="84" selection-start-column="28" selection-end-line="84" selection-end-column="28" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -717,7 +862,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -755,7 +899,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1596">
           <caret line="84" column="26" lean-forward="true" selection-start-line="84" selection-start-column="26" selection-end-line="84" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -830,20 +976,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/test" />
-    <entry file="file://$PROJECT_DIR$/public/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1041">
-          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/dist/test.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/public/dist/test.json" />
     <entry file="file://$PROJECT_DIR$/node_modules/mongoose/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -859,10 +992,21 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/front/app/services/common/commonService.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="44" column="47" lean-forward="false" selection-start-line="44" selection-start-column="47" selection-end-line="44" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
     <entry file="file://$PROJECT_DIR$/front/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="725">
           <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -870,9 +1014,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
           <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+=======
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/dist/oauth2-redirect.html" />
     <entry file="file://$PROJECT_DIR$/models/db.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -889,20 +1036,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/front/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="117415">
           <caret line="5105" column="20" lean-forward="false" selection-start-line="5105" selection-start-column="20" selection-end-line="5105" selection-end-column="20" />
+=======
+        <state relative-caret-position="200">
+          <caret line="8" column="1" lean-forward="false" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="322">
           <caret line="14" column="100" lean-forward="false" selection-start-line="14" selection-start-column="100" selection-end-line="14" selection-end-column="100" />
+=======
+        <state relative-caret-position="950">
+          <caret line="5105" column="20" lean-forward="false" selection-start-line="5105" selection-start-column="20" selection-end-line="5105" selection-end-column="20" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front/app/services/home/homeService.js">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="552">
           <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
         </state>
@@ -919,42 +1077,104 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+=======
+        <state relative-caret-position="50">
+          <caret line="2" column="44" lean-forward="false" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="425">
+          <caret line="17" column="31" lean-forward="false" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/front/app/main.js">
+    <entry file="file://$PROJECT_DIR$/front/app/services/home/homeService.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="213">
+          <caret line="24" column="24" lean-forward="false" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/front/tpl/home/homePage.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="70" lean-forward="false" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="70" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="138">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+=======
+        <state relative-caret-position="150">
+          <caret line="6" column="15" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/front/app/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+=======
+    <entry file="file://$PROJECT_DIR$/public/dist/index.html" />
+    <entry file="file://$PROJECT_DIR$/public/swagger-ui-standalone-preset.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/front/tpl/home/homePage.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1357">
           <caret line="59" column="20" lean-forward="false" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+=======
+    <entry file="file://$PROJECT_DIR$/public/favicon-32x32.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon-16x16.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/front/app/controllers/app/appCtr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="72" column="36" lean-forward="false" selection-start-line="72" selection-start-column="36" selection-end-line="72" selection-end-column="36" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/server.js">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="2507">
           <caret line="110" column="29" lean-forward="false" selection-start-line="110" selection-start-column="29" selection-end-line="110" selection-end-column="29" />
+=======
+        <state relative-caret-position="1350">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/front/app/services/account/accountService.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -967,15 +1187,36 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-506">
           <caret line="53" column="30" lean-forward="true" selection-start-line="53" selection-start-column="30" selection-end-line="53" selection-end-column="30" />
+=======
+    <entry file="file://$PROJECT_DIR$/Setting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="46">
           <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+=======
+        <state relative-caret-position="50">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+>>>>>>> fe03371a84ba9d2fee2b014f3eb7b520d7652510
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="33" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
